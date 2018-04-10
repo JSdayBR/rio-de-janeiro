@@ -9,19 +9,19 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "JSDay Recife 2017"
+title: "JSDay Rio de Janeiro 2018"
 email: "jsdaybr@gmail.com"
 description: "O JSday é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
 url: "http://jsday.com.br"
-seasonUrl: "http://rec.jsday.com.br"
+seasonUrl: "http://rio.jsday.com.br"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-62574701-1"
 googleAnalyticsSiteUrl: "jsday.com.br"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "JSday Recife"
+organizerName: "JSday Rio de Janeiro"
 # organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "O JSday é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 organizerEmail: "jsdaybr@gmail.com"
@@ -36,13 +36,13 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Recife 2017"
+c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Rio de Janeiro 2018"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/live/", text: "Live"}
 # - {link: "https://t.co/SNReTTNTbN", text: "Call for Papers"}
 
@@ -54,14 +54,14 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "bg-hd-2017.jpg"
 heroTitle: "<typeout>"
-eventDate: "16 de Dezembro, 2017"
-typeoutTextValues: '"JSday Recife", "What is WebAssembly?", "How to React?", "Programação Funcional", "PolymerRedux"'
-typeoutFallback: "JSday Recife"
+eventDate: "09 de Junho, 2018"
+typeoutTextValues: '"JSday Rio de Janeiro", "JS Lovers", "Cidade Maravilhosa"'
+typeoutFallback: "JSday Rio de Janeiro"
 heroButtons:
 - {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Participe!"}
 
 # About Block
-aboutTitle: "Sobre o JSday Recife"
+aboutTitle: "Sobre o JSday Rio de Janeiro"
 aboutBlock:
  - {title: "JavaScript", image: "javascript.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
  - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do JavaScript e estejam por dentro de suas novidades." }
@@ -86,28 +86,28 @@ rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "Faculdade Imaculada Conceição do Recife (FICR)"
-eventLocationLink: "https://www.ficr.edu.br/"
-eventStreetAddress: "Rua Jorge Tasso Neto, 318, Apipucos"
-eventAddressLocality: "Recife"
-eventAddressLocalityRegion: "PE"
-eventPostalCode: "52071-420"
+eventLocationName: "Nave Cidade Olímpica"
+eventLocationLink: "https://navedoconhecimento.rio/"
+eventStreetAddress: "Rua Arquias Cordeiro, 1516, Engenho de Dentro"
+eventAddressLocality: "Rio de Janeiro"
+eventAddressLocalityRegion: "RJ"
+eventPostalCode: "20770-001"
 eventAddressCountry: "Brasil"
-eventStartTime: "2017-12-16T08:00"
-eventDoorTime: "08:00"
-eventEndTime: "2017-12-16T18:00"
-eventPlaceCoordinates: "-8.0191395,-34.939734"
-mapCenterCoordinates: "-8.0191395,-34.939734"
-mapMobileCenterCoordinates: "-8.0191395,-34.939734"
+eventStartTime: "2018-06-09T09:00"
+eventDoorTime: "09:00"
+eventEndTime: "2018-06-09T18:00"
+eventPlaceCoordinates: "-22.8951438,-43.2937563"
+mapCenterCoordinates: "-22.8951438,-43.2937563"
+mapMobileCenterCoordinates: "-22.8951438,-43.2937563"
 
 # Venue Block
 venueBlockTitle: "Local"
-venueBigImage: "marista.jpg"
-venueSmallImage1: "auditorio.jpg"
-venueSmallImage2: "laboratorio.jpg"
+venueBigImage: "foto-aerea.jpg"
+venueSmallImage1: "fachada.jpg"
+venueSmallImage2: "fachada2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "FICR"
-venueFeatures: ["Infraestrutura de qualidade! São 3 auditórios e mais de 30 salas climatizadas e com tratamento acústico, labs de informática, cantina, elevador e um amplo estacionamento."]
+venueTitle: "Nave Cidade Olímpica"
+venueFeatures: ["Infraestrutura de qualidade! 1 auditório climatizado com capacidade para 150 pessoas. Em frente à Estação Olímpica de Trem do Engenho de Dentro. Possui também o Museu da Cidade Olímpica e Paralímpica para visitação."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -147,11 +147,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "https://www.ficr.edu.br/", text: "Faculdade Imaculada Conceição do Recife - FICR"}
-   - {link: "https://www.udacity.com/", text: "Udacity"}
-   - {link: "https://www.maxmilhas.com.br/", text: "MaxMilhas"}  
-   - {link: "http://www.stone.com.br/", text: "Stone"}  
-   - {link: "http://artics.com.br/", text: "Artics"} 
+   - {link: "https://www.facebook.com/hub.ufrj/", text: "Hub de Inovação UFRJ"}
  -
   title: "Edições Anteriores"
   links:
@@ -160,6 +156,7 @@ footerBlocks:
    - {link: "http://mcz.jsday.com.br", text: "JSday Maceió"}
    - {link: "http://rec.jsday.com.br/2015", text: "JSday Recife 2015"}
    - {link: "http://rec.jsday.com.br/2016", text: "JSday Recife 2016"}
+   - {link: "http://rec.jsday.com.br/2017", text: "JSday Recife 2017"}
  -
   title: "Contato"
   links:
@@ -188,8 +185,8 @@ cfpDescription: "Uma oportunidade excelente para você mostrar do que o JavaScri
 cfpLink: "https://www.sympla.com.br/jsday-recife-2017__108032"
 cfpLinkText: "Inscreva-se <3"
 
-# O que esperar do JSDay Recife 2017?
-oqjsday2016Title: "O que esperar do JSDay Recife 2017?"
+# O que esperar do JSDay Rio de Janeiro 2018?
+oqjsday2016Title: "O que esperar do JSDay Rio de Janeiro 2018?"
 oqjsday2016Description: "Palestras com alguns dos melhores especialistas da área, trocas de ideias, atividades práticas, sorteios, networking e várias outras surpresas - é isso que os participantes do JSDay encontrarão."
 oqjsday2016Link: "#"
 oqjsday2016LinkText: "Leia mais"
