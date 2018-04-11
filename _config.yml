@@ -41,15 +41,16 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Rio de Janeir
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {link: "https://goo.gl/forms/QJa2cN9eRzo5wBh03", text: "Call4Papers"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/live/", text: "Live"}
-# - {link: "https://t.co/SNReTTNTbN", text: "Call for Papers"}
+
 
 #bottomNavigationLinks:
 # - {link: "", text: ""}
 rightNavigationButtons:
- - {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Participe!"}
+ - {link: "https://www.sympla.com.br/jsday-rio-de-janeiro-2018__261190", text: "Participe!"}
 
 # Hero Block
 heroImage: "bg-hd-2017.jpg"
@@ -58,7 +59,8 @@ eventDate: "09 de Junho, 2018"
 typeoutTextValues: '"JSday Rio de Janeiro", "JS Lovers", "Cidade Maravilhosa"'
 typeoutFallback: "JSday Rio de Janeiro"
 heroButtons:
-- {link: "https://www.sympla.com.br/jsday-recife-2017__108032", text: "Participe!"}
+- {link: "https://www.sympla.com.br/jsday-rio-de-janeiro-2018__261190", text: "Participe!"}
+- {link: "https://goo.gl/forms/QJa2cN9eRzo5wBh03", text: "Call4Papers!"}
 
 # About Block
 aboutTitle: "Sobre o JSday Rio de Janeiro"
@@ -133,7 +135,7 @@ ticketsOffers:
 #  name: "teste"
 #  price: ""
 #  priceCurrency: ""
-  buyButtonLink: "https://www.sympla.com.br/jsday-recife-2017__108032"
+  buyButtonLink: "https://www.sympla.com.br/jsday-rio-de-janeiro-2018__261190"
   buyButtonText: "{{Comprar}}"
 #  validFrom: "YYYY-MM-DDThh:mm"
 #  validThrough: "YYYY-MM-DDThh:mm"
@@ -182,7 +184,7 @@ aboutUs: "Google's services have become synonymous with simple things online. Nu
 # Call for Papers
 cfpTitle: "Espalhe o amor pelo JavaScript"
 cfpDescription: "Uma oportunidade excelente para você mostrar do que o JavaScript é capaz. Se você já está por dentro das novidades de ES2015 e ES2016, sabe utilizar componentes React ou Angular como ninguém, programa usando JavaScript funcional e reativo ou ainda quer explicar do que se trata esse tal de Babel, participe do JSDay e ajude a comunidade crescer."
-cfpLink: "https://www.sympla.com.br/jsday-recife-2017__108032"
+cfpLink: "https://www.sympla.com.br/jsday-rio-de-janeiro-2018__261190"
 cfpLinkText: "Inscreva-se <3"
 
 # O que esperar do JSDay Rio de Janeiro 2018?
