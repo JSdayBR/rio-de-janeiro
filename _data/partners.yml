@@ -16,4 +16,6 @@
 -
   group: "Apoio"
   elements:
-    - {name: "Hub UFRJ", description: "Hub de Inovação da UFRJ", link: "https://www.facebook.com/hub.ufrj", imageUrl: "HUB.jpg", width: "200px"}
+    - {name: "Hub UFRJ", description: "Hub de Inovação da UFRJ", link: "https://www.facebook.com/hub.ufrj", imageUrl: "hub.png", width: "200px"}
+    - {name: "Nave do Conhecimento", description: "Nave do Conhecimento", link: "https://navedoconhecimento.rio/", imageUrl: "Logo_Nave_alt.png", width: "200px"}
+    - {name: "SMDEI", description: "SMDEI", link: "http://www.rio.rj.gov.br/web/smdei", imageUrl: "Logo_SMDEI_ALTA-01.jpg", width: "200px"}
