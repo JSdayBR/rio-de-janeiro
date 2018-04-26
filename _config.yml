@@ -88,28 +88,28 @@ rockstarSpeakersButtonText: "Conheça todos Palestrantes"
 
 # Location Block
 locationBlockTitle: "Localização"
-eventLocationName: "Nave Cidade Olímpica"
+eventLocationName: "Oito - Espaço Oi Futuro"
 eventLocationLink: "https://navedoconhecimento.rio/"
-eventStreetAddress: "Rua Arquias Cordeiro, 1516, Engenho de Dentro"
+eventStreetAddress: "Av. Visconde de Pirajá, 54 - Ipanema"
 eventAddressLocality: "Rio de Janeiro"
 eventAddressLocalityRegion: "RJ"
-eventPostalCode: "20770-001"
+eventPostalCode: "22410-003"
 eventAddressCountry: "Brasil"
 eventStartTime: "2018-06-09T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2018-06-09T18:00"
-eventPlaceCoordinates: "-22.8951438,-43.2937563"
-mapCenterCoordinates: "-22.8951438,-43.2937563"
-mapMobileCenterCoordinates: "-22.8951438,-43.2937563"
+eventPlaceCoordinates: "-22.9844405,-43.1966354"
+mapCenterCoordinates: "-22.9844405,-43.1966354"
+mapMobileCenterCoordinates: "-22.9844405,-43.1966354"
 
 # Venue Block
 venueBlockTitle: "Local"
-venueBigImage: "foto-aerea.jpg"
-venueSmallImage1: "fachada.jpg"
-venueSmallImage2: "fachada2.jpg"
+venueBigImage: "oito-fachada.jpg"
+venueSmallImage1: "interior-oito-1.jpg"
+venueSmallImage2: "oito-interior-2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Nave Cidade Olímpica"
-venueFeatures: ["Infraestrutura de qualidade! 1 auditório climatizado com capacidade para 150 pessoas. Em frente à Estação Olímpica de Trem do Engenho de Dentro. Possui também o Museu da Cidade Olímpica e Paralímpica para visitação."]
+venueTitle: "Auditório Oito"
+venueFeatures: ["Infraestrutura de qualidade! 1 auditório climatizado com capacidade para 100 pessoas. Próximo ao Metrô de General Osório."]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
