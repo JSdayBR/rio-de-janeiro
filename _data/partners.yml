@@ -4,15 +4,15 @@
 #    - {name: "FICR", description: "Faculdade Imaculada Conceição do Recife", link: "https://www.ficr.edu.br/", imageUrl: "ficr.png", width: "410px"}
 #    - {name: "ThoughtWorks", description: "Uma comunidade de pessoas apaixonadas com o propósito de revolucionar o design e a criação de software, enquanto defendemos uma mudança social positiva.", link: "https://www.thoughtworks.com/pt/", imageUrl: "tw-logo.png", width: "410px"}
 
-#-
-#  group: "Prata"
-#  elements:
-#    - {name: "Udacity", description: "Udacity", link: "http://www.udacity.com/", imageUrl: "udacity.png", width: "250px"}
+-
+  group: "Prata"
+  elements:
+    - {name: "Globo.com", description: "Globo.com", link: "https://talentos.globo.com", imageUrl: "gcom.png", width: "250px"}
 
-#-
-#  group: "Bronze"
-#  elements:
-#    - {name: "Stone Pagamentos", description: "Stone - Porque tudo evolui", link: "http://www.stone.com.br/", imageUrl: "stone.png", width: "200px"}
+-
+  group: "Bronze"
+  elements:
+    - {name: "Umbler", description: "Umbler", link: "https://www.umbler.com", imageUrl: "umbler.png", width: "200px"}
 -
   group: "Apoio"
   elements:

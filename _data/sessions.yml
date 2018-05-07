@@ -29,6 +29,30 @@
   title: "Em breve"
   place: ""
   service: true
+
+-
+  id: 101
+  title: "Microsoft Bot Framework com Node.Js - A Combinação Perfeita!"
+  description: "O uso de ChatBots se tornou a onda do momento - em todas as esferas em especial E-Commerce. Nessa palestra estarei mostrando a todos a evolução do mundo dos Bots e como desenvolver um Chat Bot com Node.Js com SDK Microsoft Bot Framework"
+  subtype: presentation
+  speakers: [1]
+  complexity: "Intermediário"
+
+-
+  id: 102
+  title: "Explorando o fantástico mundo de Machine Learning com JS"
+  description: "Construir modelos preditivos que irão possibilitar computadores a agir, aprender e tomar decisões baseados em dados já não é mais um conto da carochinha, realmente já está acontecendo, e para começarmos a embarcar nesta jornada, nada melhor que uma introdução a este novo mundo com a linguagem mais usada e que mais amamos no mundo: *JS*"
+  subtype: presentation
+  speakers: [2]
+  complexity: "Intermediário"
+
+-
+  id: 103
+  title: "Front-enders e o Teste filosofal"
+  description: "Escrever testes unitários no Back-end é bem simples, basicamente testamos o retorno de nossos métodos e show. Agora quando passamos a bola para o Front-end, a coisa complica, não pensamos apenas no resultado de um método, mas também temos que nos preocupar em testar se nossos componentes estão sendo renderizados corretamente e, pior ainda, nas ações do usuário! Afinal como testar um click?"
+  subtype: presentation
+  speakers: [3]
+  complexity: "Intermediário"
 # -
 #   id: 201
 #   title: "React.js"

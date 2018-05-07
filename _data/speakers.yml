@@ -1,16 +1,43 @@
-#
-#-
-#  id: 1
-#  name: "Name"
-#  surname: "Amorim"
-#  company: "Epitrack"
-#  title: "CSS Evangelist / Front-End developer"
-#  bio: "Software engineer que largou tudo em prol do amor pelo desenvolvimento Front-End em especial CSS. Atualmente vem atuando como CSS Evangelist e mesmo com pouco tempo de estudo já consegue impactar milhares de pessoal no Brasil. Além disso é uma WWCode Leader, organização mundial com a missão de fomentar o conhecimento de tecnologia para mulheres e incentivá-las a ingressar nessa área."
-#  thumbnailUrl: simone.jpg
-#  rockstar: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/samorim02"}
-#    - {name: "github", link: "https://github.com/simoneas02"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/simone-amorim-311a3a87/"}
-#    - {name: "facebook", link: "https://www.facebook.com/simone.amorim.33"}
-#
+
+-
+  id: 1
+  name: "Glaucia"
+  surname: "Lemos"
+  company: "Tech Evangelist WoMakersCode & Microsoft MVP"
+  title: "Software Engineer"
+  bio: "Software Engineer & Developer com especialização em .NET com experiência nacional e internacional em desenvolvimento de sistemas desde pequenas à grandes empresas.
+Trabalhando com diferentes tecnologias e frameworks e linguagens de programação, como: C#, Asp.NET, Node.Js, Angular, HTML, CSS, JQuery, KnockoutJs, TypeScript, RESTFul, API, MongoDb, Ruby on Rails, Python Django, SQL Server, Metodologias Ágil e Scrum, TDD, DDD, BDD e entre outros. Atualmente atua como Microsoft MVP em Visual Studio and Development Technologies. Sendo assim, atuando como evangelista de novas linguagens de programação, em especial Open Source. E também é Community Leader & Speaker do Meetup: Coders in Rio e Volunteer & Tech Speaker do WoMakersCode."
+  thumbnailUrl: glaucia_lemos.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/glaucia_lemos86"}
+    - {name: "github", link: "https://github.com/glaucia86/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/glaucialemos/"}
+    - {name: "facebook", link: "https://www.facebook.com/glaucia.lemos.1029"}
+    - {name: "site", link: "https://www.code4coders.wordpress.com"}
+
+-
+  id: 2
+  name: "Clóvis"
+  surname: "Neto"
+  company: "Liferay"
+  title: "Front End Engineer"
+  bio: "Front End Engineer, sou organizador do FEMUG-PE, criador do All Animation CSS3, e fundador do CãoPido, startup incubada na JUMP Brasil e premiada no Inovativa Brasil. Além de palestrante, também sou entusiasta em criar animações com CSS3 e Canvas. Me considero um entusiasta e fã de carteirinha quando o assunto se trata de machine learning. Gosto de passar meu tempo estudando novas formas de dominar o mundo, e para tal, nada melhor que passar umas horinhas estudando ML. "
+  thumbnailUrl: clovis_neto.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/clovisdasilvaneto"}
+
+-
+  id: 3
+  name: "Larissa"
+  surname: "Abreu"
+  company: "Valle Web"
+  title: "Front end developer"
+  bio: "Gamer, Front-End Developer, futura Suicide Girl, cantora, PotterHead e web platform evangelist.
+Atuando dentro da Valle web no desenvolvimento de componentes independentes, na composição de aplicações, ajudando na mentoria de novos desenvolvedores e autora de testes automatizados xD"
+  thumbnailUrl: larissa_abreu.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/LarissaAbreu"}
+    - {name: "twitter", link: "https://twitter.com/TheSweet_Lari"}
