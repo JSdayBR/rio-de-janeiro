@@ -53,6 +53,31 @@
   subtype: presentation
   speakers: [3]
   complexity: "Intermediário"
+
+-
+  id: 104
+  title: "Hacking the Nintendo Game Boy with JavaScript"
+  description: "Iremos olhar todos componentes internos do hardware, entender como funcionam, como é a criação de um emulador, disassembly da ROM, graphic dumping e audio. Usaremos JavaScript para tudo isso e alguns conhecimentos de Assembly."
+  subtype: presentation
+  speakers: [4]
+  complexity: "Avançado"
+
+-
+  id: 105
+  title: "Elm, construíndo PWAs funcionais"
+  description: "Nessa palestra iremos conhecer a linguagem Elm através da construção de um PWA. Elm é uma nova linguagem funcional para construção de front-end que compila para JS com performance similar a React e Vue porém com muito mais garantias. De sintaxe similar a Haskell e semântica parecida com OCaml, Elm é possui muitos conceitos avançados sem no entando perder o foco em programadores funcionais iniciantes e por causa disso é super amigável. Sua arquitetura inovadora serviu de inspiração para o Redux e outras bibliotecas famosas. Ao final da palestra, as pessoas saberão por que e como começar a desenvolver na nova linguagem.  "
+  subtype: presentation
+  speakers: [5]
+  complexity: "Iniciante"
+
+-
+  id: 106
+  title: "Realidade Virtual já é Realidade!"
+  description: "A web está enfrentando mais uma convergência de conteúdo, devices, telas e experiências. Estamos imergindo e construindo uma web com cada vez menos fronteiras e dessa vez elas são geográficas! Telepresenças e e convergências de realidade farão parte do nosso cotidiano do mesmo jeito que realizar uma vídeo chamada hoje já faz parte. Nesta palestra mostrei como utilizar o A-Frame, o maior e mais completo framework para criação e manipulação de ambientes virtuais na web, com Vue e Vuex. Vamos unir as tecnologias que amamos para facilitar a construção de cenários e realidades virtuais."
+  subtype: presentation
+  speakers: [6]
+  complexity: "Iniciante"
+
 # -
 #   id: 201
 #   title: "React.js"

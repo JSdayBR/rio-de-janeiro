@@ -41,3 +41,45 @@ Atuando dentro da Valle web no desenvolvimento de componentes independentes, na 
   social:
     - {name: "github", link: "https://github.com/LarissaAbreu"}
     - {name: "twitter", link: "https://twitter.com/TheSweet_Lari"}
+
+-
+  id: 4
+  name: "Raphael"
+  surname: "Klaus"
+  company: "N2B"
+  title: "Engenheiro de Software"
+  bio: "Viciado em hackear consoles dos anos 90. Atualmente interessado em (Web) Assembly, Audio e Física"
+  thumbnailUrl: raphael_klaus.png
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/raphaklaus"}
+
+-
+  id: 5
+  name: "Andre"
+  surname: "Garzia"
+  company: "Mozilla"
+  title: "TechSpeaker"
+  bio: "Desenvolvedor nas áreas de web e internet das coisas. Voluntário da Mozilla e apaixonado pelo mundo mobile, publicou diversos livros sobre Firefox OS e fez da educação seu trabalho por meio de suas iniciativas de letramento web e empoderamento através da experimentação tecnológica. Seu foco atual é a decentralização da internet, IoT e Web."
+  thumbnailUrl: andre_garzia.jpg
+  rockstar: true
+  social:
+    - {name: "toot", link: "http://toot.cafe/soapdog"}
+    - {name: "twitter", link: "http://twitter.com/@soapdog"}
+    - {name: "github", link: "http://github.com/soapdog"}
+
+-
+  id: 6
+  name: "Luigui"
+  surname: "Delyer"
+  company: "SuperUber"
+  title: "Senior Front-End Developer"
+  bio: "Front-End Developer especialista em VueJS, Vuex, SASS, PUG, Atomic Design e GeoDevelopement com ArcGIS, Leaflet e OpenStreetMap. 
+Atualmente trabalhando com A-Frame, WebVR e Three.js fazendo aplicações de realidade virtual com VueJS numa empresa maneiríssima que mistura arte, design e tecnologia.
+Ativista de Software Livre, representante da Mozilla no Brasil, já participei de diversos eventos pelo país falando sobre tecnologias web.
+Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web."
+  thumbnailUrl: luigui_delyer.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/luiguild"}
+    - {name: "github", link: "https://github.com/luiguild"}

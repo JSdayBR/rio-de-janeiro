@@ -41,8 +41,8 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Rio de Janeir
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {link: "https://goo.gl/forms/QJa2cN9eRzo5wBh03", text: "Call4Papers"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {link: "https://goo.gl/forms/QJa2cN9eRzo5wBh03", text: "Call4Papers"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/live/", text: "Live"}
 
