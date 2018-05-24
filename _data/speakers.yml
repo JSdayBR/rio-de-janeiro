@@ -83,3 +83,29 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web."
   social:
     - {name: "twitter", link: "https://twitter.com/luiguild"}
     - {name: "github", link: "https://github.com/luiguild"}
+
+-
+  id: 7
+  name: "Vinicius"
+  surname: "Reis"
+  company: "Decision6"
+  title: "Engenheiro de Aplicações."
+  bio: "Sou Full-Stack Severino-Developer, casado e pai uma filha linda. Gosta de filmes, livros, mangá, HQs, games… Ou seja, gosto de mais coisas do que tenho tempo para fazê-las. Gravo vídeos para o Codecasts e trabalha na Decision6 como Engenheiro de Aplicações."
+  thumbnailUrl: vinicius_reis.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/LuizVinicius73"}
+    - {name: "github", link: "https://github.com/vinicius73/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luizvinicius73/"}
+
+-
+  id: 8
+  name: "Cristina"
+  surname: "Silva"
+  company: "Meta"
+  title: "Analista de Desenvolvimento"
+  bio: "Full stack developer, audaciosamente lutando contra a entropia. Possui mais de seis anos de atuação na industria de desenvolvimento de software. Atualmente trabalha alocada na TV Globo, na criação de sistemas webs e mobiles. Entusiasta de aplicações descentralizadas, Blockchain e IA, passa o tempo livre em casa estudando finanças, linguagens esotéricas, piscando LEDs com Arduino e tentando criar o HAL 9000."
+  thumbnailUrl: cristina_silva.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "http://contactup.io/crissilvaeng/"}

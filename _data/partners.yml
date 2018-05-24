@@ -8,11 +8,13 @@
   group: "Prata"
   elements:
     - {name: "Globo.com", description: "Globo.com", link: "https://talentos.globo.com", imageUrl: "gcom.png", width: "250px"}
+    - {name: "B2W", description: "B2W", link: "http://somos.b2wdigital.com/bit/", imageUrl: "b2w.svg", width: "250px"}
 
 -
   group: "Bronze"
   elements:
     - {name: "Umbler", description: "Umbler", link: "https://www.umbler.com", imageUrl: "umbler.png", width: "200px"}
+    - {name: "Liferay", description: "Liferay", link: "https://www.liferay.com/", imageUrl: "liferay.jpg", width: "200px"}
 -
   group: "Apoio"
   elements:

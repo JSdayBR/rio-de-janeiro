@@ -42,7 +42,7 @@ c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Rio de Janeir
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {link: "https://goo.gl/forms/QJa2cN9eRzo5wBh03", text: "Call4Papers"}
+#- {link: "https://goo.gl/forms/QJa2cN9eRzo5wBh03", text: "Call4Papers"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/live/", text: "Live"}
 
@@ -60,7 +60,6 @@ typeoutTextValues: '"JSday Rio de Janeiro", "JS Lovers", "Cidade Maravilhosa"'
 typeoutFallback: "JSday Rio de Janeiro"
 heroButtons:
 - {link: "https://www.sympla.com.br/jsday-rio-de-janeiro-2018__261190", text: "Participe!"}
-- {link: "https://goo.gl/forms/QJa2cN9eRzo5wBh03", text: "Call4Papers!"}
 
 # About Block
 aboutTitle: "Sobre o JSday Rio de Janeiro"

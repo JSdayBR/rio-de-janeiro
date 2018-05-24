@@ -78,6 +78,22 @@
   speakers: [6]
   complexity: "Iniciante"
 
+-
+  id: 107
+  title: "GraphQL: Buzz word que veio para ficar"
+  description: "Uma palestra direta ao ponto sobre o que é GraphQL, o que ele resolve e como utiliza-lo"
+  subtype: presentation
+  speakers: [7]
+  complexity: "Intermediário"
+
+-
+  id: 108
+  title: "Tempero Funcional para Desenvolvedores Não-Funcionais"
+  description: "Uma introdução ao paradigma funcional e aos seus principais conceitos utilizando Javascript como linguagem de exemplo. Promove o paradigma funcional como prática para incrementar projetos já existentes com código simples, modularizados e testáveis."
+  subtype: presentation
+  speakers: [8]
+  complexity: "Intermediário"
+
 # -
 #   id: 201
 #   title: "React.js"
