@@ -80,11 +80,11 @@
 
 -
   id: 107
-  title: "GraphQL: Buzz word que veio para ficar"
-  description: "Uma palestra direta ao ponto sobre o que é GraphQL, o que ele resolve e como utiliza-lo"
+  title: "Vue.js: O poder das render functions"
+  description: "Render functions são uma feature ainda pouco explorada por muitos devs. Nesta palestra vamos explorar um pouco do seu potencial e por que deveríamos usa-las com mais frequência."
   subtype: presentation
   speakers: [7]
-  complexity: "Intermediário"
+  complexity: "Avançado"
 
 -
   id: 108
@@ -93,6 +93,14 @@
   subtype: presentation
   speakers: [8]
   complexity: "Intermediário"
+
+-
+  id: 109
+  title: "Consumindo GraphQL + gerenciando o estado de aplicações utilizando Apollo"
+  description: "GraphQL foi criado para ser uma alternativa ao REST, irei explorar algumas vantagens que fizeram o Nubank adotar essa tecnologia e falar sobre o Apollo, que é uma biblioteca tanto client-side quando server-side para aplicações que utilizam GraphQL."
+  subtype: presentation
+  speakers: [9]
+  complexity: "Iniciante"
 
 # -
 #   id: 201

@@ -109,3 +109,15 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web."
   rockstar: true
   social:
     - {name: "site", link: "http://contactup.io/crissilvaeng/"}
+
+-
+  id: 9
+  name: "Marina"
+  surname: "Limeira"
+  company: "Nubank"
+  title: "Engenheira de Software"
+  bio: "Natural de Alagoas, hoje trabalha como engenheira de software no Nubank e cursa Ciência da Computação na PUC-SP.
+
+Já contribuiu com projetos da Mozilla Brazil e antes de se mudar para São Paulo, organizou a duas edições do Rails Girls que aconteceram em Maceió."
+  thumbnailUrl: marina_limeira.jpg
+  rockstar: true
