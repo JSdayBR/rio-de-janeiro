@@ -1,7 +1,7 @@
-#-
-#  group: "Ouro"
-#  elements:
-#    - {name: "FICR", description: "Faculdade Imaculada Conceição do Recife", link: "https://www.ficr.edu.br/", imageUrl: "ficr.png", width: "410px"}
+-
+  group: "Ouro"
+  elements:
+   - {name: "VTEX", description: "VTEX", link: "https://careers.vtex.com", imageUrl: "vtex.png", width: "800px"}
 #    - {name: "ThoughtWorks", description: "Uma comunidade de pessoas apaixonadas com o propósito de revolucionar o design e a criação de software, enquanto defendemos uma mudança social positiva.", link: "https://www.thoughtworks.com/pt/", imageUrl: "tw-logo.png", width: "410px"}
 
 -
