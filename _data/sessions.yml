@@ -102,6 +102,14 @@
   speakers: [9]
   complexity: "Iniciante"
 
+-
+  id: 110
+  title: "SSR em aplicações React"
+  description: " Renderizar componentes no servidor pode melhorar bastante a perfomance da sua aplicação, mas como fazer isso e que tipo de desafios podem ser esperados quando se usa essa técnica? E mais importante ainda, como abordar esses desafios?"
+  subtype: presentation
+  speakers: [10]
+  complexity: "Intermediário"
+
 # -
 #   id: 201
 #   title: "React.js"

@@ -1,7 +1,7 @@
 -
-  group: "Ouro"
+  group: "Platina"
   elements:
-   - {name: "VTEX", description: "VTEX", link: "https://careers.vtex.com", imageUrl: "vtex.png", width: "800px"}
+   - {name: "VTEX", description: "VTEX", link: "https://careers.vtex.com", imageUrl: "vtex.png", width: "1500px"}
 #    - {name: "ThoughtWorks", description: "Uma comunidade de pessoas apaixonadas com o propósito de revolucionar o design e a criação de software, enquanto defendemos uma mudança social positiva.", link: "https://www.thoughtworks.com/pt/", imageUrl: "tw-logo.png", width: "410px"}
 
 -

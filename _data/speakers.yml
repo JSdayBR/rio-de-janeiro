@@ -121,3 +121,14 @@ Apresento um podcast chamado 'Elemencast' cujo tema é desenvolvimento web."
 Já contribuiu com projetos da Mozilla Brazil e antes de se mudar para São Paulo, organizou a duas edições do Rails Girls que aconteceram em Maceió."
   thumbnailUrl: marina_limeira.jpg
   rockstar: true
+
+
+-
+  id: 10
+  name: "Leticia"
+  surname: "Farias"
+  company: "VTEX"
+  title: "Engenheira de Software"
+  bio: "Leticia é formada em ciência da computação pela Universidade Federal de Campina Grande, hoje trabalha como engenheira de software na VTEX e é mentora do curso React Nanodegree da Udacity. Sempre trabalhou com desenvolvimento web apesar de ter flertado com, e gostar muito de, análise e visualização de dados e computação em nuvem."
+  thumbnailUrl: leticia_farias.jpg
+  rockstar: true
