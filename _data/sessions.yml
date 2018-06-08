@@ -20,13 +20,19 @@
   service: true
 -
   id: 005
-  title: "Encerramento"
+  title: "Encerramento e Sorteios"
   place: ""
   service: true
   description: "Thank you and... always bet on JS!"
 -
   id: 006
   title: "Em breve"
+  place: ""
+  service: true
+
+-
+  id: 007
+  title: "Interação com Plateia - Sorteio de Brindes"
   place: ""
   service: true
 
